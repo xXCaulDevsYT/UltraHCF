@@ -1,6 +1,11 @@
-# FactionsPro - Modded
-###### Credit and thanks to TETHERED for writing this plugin, and various other teams who contributed other parts of the code. Let me know if you'd like credit, I don't know who you are...
+# HCF ULTRA EDITION - Modded
+###### Credit and thanks to Team CF For Helping Out In This Project !
 
+###### TEAM CF TEAM
 
-Added ClaimWorlds array to config to define worlds where /f claim is allowed
-Other minor changes
+(---------------[+]---------------)
+# Owners \ Founders!
+xXCaulDevsYT
+PowerSvggeYT
+B3R34S0n4BlE
+
